@@ -37,6 +37,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## [#WeAreNotWaiting](https://twitter.com/hashtag/wearenotwaiting?src=hash&vertical=default&f=images) and [this](https://vimeo.com/109767890) is why.
 
 [![Coverage Status](https://coveralls.io/repos/github/nightscout/cgm-remote-monitor/badge.svg?branch=master)](https://coveralls.io/github/nightscout/cgm-remote-monitor?branch=master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fburnedikt%2Fcgm-remote-monitor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fburnedikt%2Fcgm-remote-monitor?ref=badge_shield)
 
 [build-img]: https://img.shields.io/travis/nightscout/cgm-remote-monitor.svg
 [build-url]: https://travis-ci.org/nightscout/cgm-remote-monitor
@@ -127,6 +128,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
   - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fburnedikt%2Fcgm-remote-monitor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fburnedikt%2Fcgm-remote-monitor?ref=badge_large)
 
 # Install
 
